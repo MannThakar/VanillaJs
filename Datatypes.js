@@ -4,4 +4,4 @@
 let a=null;
 
 console.log(typeof a)// Object
-console.log(typeof undefined)
+console.log(typeof undefined)//undefined
