@@ -20,5 +20,4 @@ let Fun1 = function Add() {
 const Man = {
     height: 5.9,
     weight: 64
-
 }
