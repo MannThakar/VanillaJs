@@ -27,3 +27,5 @@ console.log(strs.search('mann'));
 
 //SubString Doesnt accept negative values
 console.log(strs.substring(3, 6));
+
+
