@@ -10,8 +10,7 @@ function Sum(number) {
     }
 
     //Converting to Int
-    const sumInt = Math.floor(sum);
-    return parseInt(sumInt);
+    return sum;
 
 }
 
