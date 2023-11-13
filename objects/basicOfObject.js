@@ -16,7 +16,6 @@ console.log(obj.age);
 //Second way to access the propery of object
 console.log(obj["age"]);
 
-
 //Frezzing the object
 Object.freeze(obj);
 obj['age'] = 22;
